@@ -8,6 +8,9 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <title>Curriculumn</title>
     <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
 </head>
 <body class="c-app">
     <div id="app" class="w-100">
@@ -51,12 +54,12 @@
                             <h1 class="mb-0">Nicolas
                               <span class="text-success">Garcia Ramirez</span>
                             </h1>
-                            <div class="subheading mb-5">Campeste C · Dosquebradas · 322-6079759 ·
+                            <div class="subheading mb-5">Campeste C · Dosquebradas · 3138745263 · 3116072311
                               <a href="mailto:name@email.com" class="text-success">desarrollo.dev.ni@gmail.com</a>
                             </div>
                             <p class="mb-5">Tengo experiencia en el desarrollo de aplicaciones web, manejo de frameworks como laravel, vue.js, uno de los proyectos en los que he trabajado es <a href="https://www.noisesharks.com/">Noisesharks</a>, tambien soy muy bueno trabajando en equipo, acatando ordenes para cumplir todos los objetivos planteados, manejo la metodologia scrum. </p>
                             <ul class="list-inline list-social-icons mb-0">
-                              <img src="a_data/social.png">
+	                            <a href="https://wa.me/573138745263?text=Me%20gustaria%20saber%20que%20costo%20tiene%20la%20construccion%20de%20una%20aplicacion%20con%20estos%20requerimientos%20porfa%20se%20claro%20con%20tus%20requerimientos." class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
                             </ul>
                           </div>
                         </section>
@@ -150,8 +153,10 @@
             </div>
         </div>
     </div>
-    <script src="https://js.stripe.com/v3/"></script>
     <script src="{{ mix('/js/app.js') }}"></script>
     <script src="{{ asset('/js/pace.min.js') }}" charset="utf-8"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 </body>
 </html>
