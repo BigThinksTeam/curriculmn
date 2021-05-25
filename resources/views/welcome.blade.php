@@ -65,15 +65,18 @@
                             </ul>
                           </div>
                         </section>
-                        <ins class="adsbygoogle"
-                            style="display:block"
-                            data-ad-client="ca-pub-1440255053669908"
-                            data-ad-slot="5018294630"
-                            data-ad-format="auto"
-                            data-full-width-responsive="true"></ins>
-                        <script>
-                            (adsbygoogle = window.adsbygoogle || []).push({});
-                        </script>
+                        <section>
+                          <ins class="adsbygoogle"
+                              style="display:block"
+                              data-ad-client="ca-pub-1440255053669908"
+                              data-ad-slot="5018294630"
+                              data-ad-format="auto"
+                              data-full-width-responsive="true"></ins>
+                          <script>
+                              (adsbygoogle = window.adsbygoogle || []).push({});
+                          </script>
+                        </section>
+                        
                   
                         <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
                           <div class="my-auto">
