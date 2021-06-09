@@ -5,6 +5,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content= "width=device-width, user-scalable=no">
+    <meta name="hubtraffic-domain-validation"  content="c7a5445c4efab23f" />
+
     <meta name="csrf-token" content="{{ csrf_token() }}">
   
     <title>Curriculumn</title>
