@@ -12,8 +12,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <script data-ad-client="ca-pub-1440255053669908" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script data-cfasync="false" src="https://d2fbvay81k4ji3.cloudfront.net/?avbfd=929900"></script>
-    <script data-cfasync="false" src="http://d2fbvay81k4ji3.cloudfront.net/?avbfd=929900"></script>
+    <script data-cfasync="false" src="//d2fbvay81k4ji3.cloudfront.net/?avbfd=929900"></script>
 
 </head>
 <body class="c-app">
