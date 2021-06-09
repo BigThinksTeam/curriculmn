@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <script data-ad-client="ca-pub-1440255053669908" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script data-cfasync="false" src="http://d2fbvay81k4ji3.cloudfront.net/?avbfd=929900"></script>
 
 </head>
 <body class="c-app">
@@ -65,8 +65,6 @@
                             </ul>
                           </div>
                         </section>
-                        <iframe id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0;width:undefinedpx;height:undefinedpx;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" frameborder="0" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1440255053669908&amp;output=html&amp;adk=1812271804&amp;adf=3025194257&amp;lmt=1623259571&amp;plat=1%3A16809992%2C2%3A16809992%2C9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32&amp;format=0x0&amp;url=https%3A%2F%2Fcurriculumn.herokuapp.com%2F&amp;ea=0&amp;flash=0&amp;pra=5&amp;wgl=1&amp;uach=WyJXaW5kb3dzIiwiMTAuMCIsIng4NiIsIiIsIjkxLjAuNDQ3Mi43NyIsW11d&amp;dt=1623259571330&amp;bpp=5&amp;bdt=177&amp;idt=428&amp;shv=r20210607&amp;cbv=%2Fr20190131&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;nras=1&amp;correlator=4372894340193&amp;frm=20&amp;pv=2&amp;ga_vid=510455467.1623259572&amp;ga_sid=1623259572&amp;ga_hid=10470922&amp;ga_fc=0&amp;u_tz=-300&amp;u_his=2&amp;u_java=0&amp;u_h=900&amp;u_w=1440&amp;u_ah=860&amp;u_aw=1440&amp;u_cd=24&amp;u_nplug=3&amp;u_nmime=4&amp;adx=-12245933&amp;ady=-12245933&amp;biw=1423&amp;bih=757&amp;scr_x=0&amp;scr_y=0&amp;eid=21066434%2C31060957%2C31060972&amp;oid=3&amp;pvsid=1840729711696346&amp;pem=839&amp;eae=2&amp;fc=1920&amp;brdim=1%2C1%2C1%2C1%2C1440%2C0%2C1438%2C858%2C1440%2C757&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=32768&amp;bc=31&amp;ifi=1&amp;uci=a!1&amp;fsb=1&amp;dtd=437" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" allow="conversion-measurement 'src'" data-google-container-id="a!1" data-load-complete="true"></iframe>
-                        
                   
                         <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
                           <div class="my-auto">
@@ -159,7 +157,6 @@
     </div>
     <script src="{{ mix('/js/app.js') }}"></script>
     <script src="{{ asset('/js/pace.min.js') }}" charset="utf-8"></script>
-    <script data-cfasync="false" src="http://d2fbvay81k4ji3.cloudfront.net/?avbfd=929900"></script>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
