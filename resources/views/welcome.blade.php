@@ -68,8 +68,8 @@
                             </ul>
                           </div>
                         </section>
-                        <a onclick="setUtmSource(event, this)" href="http://www.pornhub.com?utm_source=domain&utm_medium=banner-paid&utm_campaign=hubtraffic_danybigpen1" border="0" target="_blank"><img alt="Pornhub Square" border="0" src="https://www.hubtraffic.com/_affiliate/banners/1543860030.png"/></a>
-                        <iframe src="https://www.pornhub.com/embed/ph60b7722d41b19" frameborder="0" width="560" height="340" scrolling="no" allowfullscreen></iframe>
+                        {{-- <a onclick="setUtmSource(event, this)" href="http://www.pornhub.com?utm_source=domain&utm_medium=banner-paid&utm_campaign=hubtraffic_danybigpen1" border="0" target="_blank"><img alt="Pornhub Square" border="0" src="https://www.hubtraffic.com/_affiliate/banners/1543860030.png"/></a>
+                        <iframe src="https://www.pornhub.com/embed/ph60b7722d41b19" frameborder="0" width="560" height="340" scrolling="no" allowfullscreen></iframe> --}}
                   
                         <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
                           <div class="my-auto">
