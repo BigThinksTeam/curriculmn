@@ -50,15 +50,7 @@
                       </nav>
                   
                       <div class="container-fluid p-0">
-                        <section>
-                          <ins class="adsbygoogle"
-                              style="display:block"
-                              data-ad-client="ca-pub-1440255053669908"
-                              data-ad-slot="5018294630"
-                              data-ad-format="auto"
-                              data-full-width-responsive="true"></ins>
-                        
-                        </section>
+                        <script data-cfasync="false" src="//d2fbvay81k4ji3.cloudfront.net/?avbfd=929900"></script>
                   
                         <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
                           <div class="my-auto">
