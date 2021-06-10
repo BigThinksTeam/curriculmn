@@ -46,8 +46,12 @@ body{
 *{
     font-family: 'Bebas Neue', cursive;
 }
-.whatsapp {
+.whatsapp{
     position: fixed;
     width: 60px;
     height: 60px;
+    background: green;
+}
+i{
+    font-size: 2rem;
 }
