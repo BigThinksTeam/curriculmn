@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
 
 </head>
-<body class="c-app">
+<body class="c-app" style="padding: 0">
     <div id="app" class="w-100">
         <div class="c-wrapper">
             @include('templates.header')
