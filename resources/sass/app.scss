@@ -39,3 +39,15 @@ body{
     border: 1px solid $third-color;
     color: white;
 }
+
+//curruculumn
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=El+Messiri&display=swap');
+@import './resume.css';
+*{
+    font-family: 'Bebas Neue', cursive;
+}
+.whatsapp {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+}
