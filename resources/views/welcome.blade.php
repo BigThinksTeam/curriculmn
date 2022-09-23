@@ -59,7 +59,7 @@
                             <h1 class="mb-0">Nicolas
                               <span class="text-success">Garcia Ramirez</span>
                             </h1>
-                            <div class="subheading mb-5">Campeste C · Dosquebradas · 3138745263 · 3116072311
+                            <div class="subheading mb-5">Campeste C · Dosquebradas · 3136303248 · 3116072311
                               <a href="mailto:name@email.com" class="text-success">desarrollo.dev.ni@gmail.com</a>
                             </div>
                             <p class="mb-5">Tengo experiencia en el desarrollo de aplicaciones web, manejo de frameworks como laravel, vue.js, uno de los proyectos en los que he trabajado es <a href="https://www.noisesharks.com/">Noisesharks</a>, tambien soy muy bueno trabajando en equipo, acatando ordenes para cumplir todos los objetivos planteados, manejo la metodologia scrum. </p>
@@ -68,9 +68,6 @@
                             </ul>
                           </div>
                         </section>
-                        {{-- <a onclick="setUtmSource(event, this)" href="http://www.pornhub.com?utm_source=domain&utm_medium=banner-paid&utm_campaign=hubtraffic_danybigpen1" border="0" target="_blank"><img alt="Pornhub Square" border="0" src="https://www.hubtraffic.com/_affiliate/banners/1543860030.png"/></a>
-                        <iframe src="https://www.pornhub.com/embed/ph60b7722d41b19" frameborder="0" width="560" height="340" scrolling="no" allowfullscreen></iframe> --}}
-                  
                         <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
                           <div class="my-auto">
                             <h2 class="mb-5">Experiencia</h2>
@@ -94,7 +91,18 @@
                                 <p>desarrollo de aplicaciones web, con el manejo de frameworks (laravel, vue.js), dessarollo backend y diseno de frontend</p>
                               </div>
                               <div class="resume-date text-md-right">
-                                <span class="text-success">01 04 2018 - Actualmente</span>
+                                <span class="text-success">01 04 2018 - 03 06 2020</span>
+                              </div>
+                            </div>
+
+                            <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                              <div class="resume-content mr-auto">
+                                <h3 class="mb-0">Developer Senior</h3><br>
+                                <div class="subheading mb-3">Panthera Hub</div>
+                                <p>Director de proyectos, trabajo colaborativo, metodologias agiles, buenas practicas y escalabilidad de proyectos</p>
+                              </div>
+                              <div class="resume-date text-md-right">
+                                <span class="text-success">04 06 2020 - Actualmente</span>
                               </div>
                             </div>
                   
@@ -138,10 +146,12 @@
                             <div class="subheading mb-3"></div>
                             <ul class="fa-ul mb-0">
                               <li>&#9658; Diseño responsibe</li>
-                              <li>&#9658; Diseño frontend &amp; CSS HTML5 JavaScript</li>
-                              <li>&#9658; Desarrollo backend &amp; Python PHP </li>
-                              <li>&#9658; Frameworks &amp; Laravel, Django, Vue.js</li>
+                              <li>&#9658; Diseño frontend &amp; CSS, HTML5 JavaScript</li>
+                              <li>&#9658; Desarrollo backend &amp; Python PHP, Mysql </li>
+                              <li>&#9658; Frameworks &amp; Laravel, Django, Vue.js, Sass, Boostrap, React Native, Flutter, Kotlin</li>
                               <li>&#9658; Instalacion de Servidores &amp; servicios web, servicios de correo, servicios DNS, servicios PXE...</li>
+                              <li>&#9658; Docker</li>
+                              <li>&#9658; Aws</li>
                               <li>&#9658; Desarrollo Agil &amp; Scrum</li>
                             </ul>
                           </div>
@@ -153,6 +163,11 @@
                             <p>Me intereso por mejorar cada dia, alcanzar mis metas y ser el mejor en lo que hago
                             busco y me actualizo de las nuevas herramientas y metodologias de trabajo.<br>Soy proactivo y 
                             siempre doy mi opinion para una mejor solucion.</p>
+
+                            <p>
+                              Me gusta tener y mantener el mejor ambiente laboral, he desarrollado diferentes proyectos con laravel y vue, nos hemos adaptado para mejorar todas las practicas y estandares en el codigo, 
+                              siempre pienso en la escalabilidad y mantenimiento que se le va a brindar a los diferentes aplicaciones web.
+                            </p>
                           </div>
                         </section>
                       </div>
